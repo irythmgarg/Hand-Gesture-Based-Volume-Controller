@@ -1,6 +1,6 @@
 # ===============================
 # Hand Gesture Volume Control
-# Author: [Your Name]
+# Author: [Ridham Garg]
 # Description: Control system volume on macOS using hand gestures.
 # ===============================
 
